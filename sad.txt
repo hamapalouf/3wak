@@ -14,3 +14,7 @@ origin signifie  le  lien de github de ce projet
  git branch  new-feature  creez une autre branch
 
  git checkount new-feature  mettez  le branch  
+
+
+
+ git push pour make it dans github
