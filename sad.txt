@@ -1,3 +1,11 @@
 la premier  commande  git init danst le  dossier existant;
 
 chaque modification  git add , git commit
+
+
+
+pour ajouter le projet au git hub 
+git remote add origin https://github.com/hamapalouf/3wak.git
+
+origin signifie  le  lien de github de ce projet
+
