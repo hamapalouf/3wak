@@ -9,3 +9,8 @@ git remote add origin https://github.com/hamapalouf/3wak.git
 
 origin signifie  le  lien de github de ce projet
 
+ git branch pour afficher liste de branch 
+
+ git branch  new-feature  creez une autre branch
+
+ git checkount new-feature  mettez  le branch  
